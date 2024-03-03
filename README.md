@@ -17,4 +17,4 @@
 ![1주차](https://github.com/WzAcorn/SaveWorld_TinyML/assets/77008882/af335c71-d3a3-44b4-8c2d-f59b0f8becec)
 
 #### 2주차
-![2주차](https://github.com/WzAcorn/SaveWorld_TinyML/assets/77008882/c51cad9f-d296-42f4-9774-9e514c0d3b36)
+![2주차](https://github.com/WzAcorn/SaveWorld_TinyML/assets/77008882/76d5f649-50b2-42c6-b46b-8054eac87c5b)
