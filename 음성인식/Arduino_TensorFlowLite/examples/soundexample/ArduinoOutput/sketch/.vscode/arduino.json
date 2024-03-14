@@ -1,0 +1,8 @@
+#line 1 "C:\\workspace\\SaveWorld_TinyML\\음성인식\\Arduino_TensorFlowLite\\examples\\soundexample\\.vscode\\arduino.json"
+{
+    "port": "COM13",
+    "board": "arduino:mbed_rp2040:pico",
+    "programmer": "jlink",
+    "sketch": "soundexample.ino",
+    "output": "ArduinoOutput"
+}
